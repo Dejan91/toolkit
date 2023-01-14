@@ -1,4 +1,4 @@
-module github.com/tsawler/toolkit/v2
+module github.com/Dejan91/toolkit/v2
 
 
 go 1.18
